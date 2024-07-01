@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning DevOps ! Design and Devloped by Cloud DevOps Lab!!! </h1>
+   <h1> Thankyou, Happy Learning DevOps & Ansible ! Design and Devloped by Cloud DevOps Lab!!! </h1>
 
   
 </form>
